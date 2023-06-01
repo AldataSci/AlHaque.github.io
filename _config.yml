@@ -3,9 +3,8 @@ logo: "/images/unnamed.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br> Aspiring Data Scientist here to showcase the various work I have done working on my Masters Degree
-  at The CUNY SPSS<br>
-  Second description 
-  <br><br>
+  at The CUNY SPSS <br>
+  
   <a href="https://www.linkedin.com/in/al-haque-a97592233/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
