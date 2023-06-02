@@ -2,7 +2,7 @@
 
 ---
  
-[Regression Analysis of Baseball]
+### Regression Analysis of Baseball Wins
 <p style="font-size:20px">A dataset containing information about baseball teams and the amount of games each team has won. Cleaned the data by removing irrelevant columns and imputed missing values with pmm,cart and lasso. Utilized linear regression to predict wins </p>
 
 <br> </br>
