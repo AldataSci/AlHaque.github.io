@@ -15,10 +15,10 @@
      
 <div class="row">
   <div class="column">
-    <img src="https://calltothepen.com/wp-content/uploads/getty-images/2018/08/1223475597.jpeg" alt="Baseball" style="width:100%">
+    <img src="https://calltothepen.com/wp-content/uploads/getty-images/2018/08/1223475597.jpeg" alt="Baseball" style="width:250">
   </div>
   <div class="column">
-    <img src="https://www.justbaseball.com/wp-content/uploads/sites/2/2021/06/Mets-Peter-Alonso.jpg?fit=4808%2C3184" alt="Forest" style="width:100%">
+    <img src="https://www.justbaseball.com/wp-content/uploads/sites/2/2021/06/Mets-Peter-Alonso.jpg?fit=4808%2C3184" alt="Forest" style="width:250">
   </div>     
 
 <p style="font-size:15px">Click here for the full write-up and R appendice on Rpubs <a href="https://rpubs.com/Al_Haque/1048991">Click here</a></p>
