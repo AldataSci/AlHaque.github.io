@@ -2,8 +2,8 @@
 
 ---
  
-[Regression Analysis of Baseball] (https://rpubs.com/Al_Haque/1048991)
-<p style="font-size:11px">A dataset containing information about baseball teams and the amount of games each team has won </p>
+[Regression Analysis of Baseball]
+<p style="font-size:11px">A dataset containing information about baseball teams and the amount of games each team has won. Cleaned the data by removing irrelevant columns and imputed missing values with pmm,cart and lasso. Utilized linear regression to predict wins </p>
 <img src="![image](https://github.com/AldataSci/AlHaque.github.io/assets/98715645/4d36c985-55ba-4b81-a6a5-d90208b9623c)">
 
 ---
