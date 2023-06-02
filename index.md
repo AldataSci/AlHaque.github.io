@@ -7,7 +7,7 @@
 
 <br> </br>
 
-<p style="font-size:15px">Click here for the full write-up and R appendice on Rpubs <a href=https://rpubs.com/Al_Haque/1048991>Click here</a></p>
+<p style="font-size:15px">Click here for the full write-up and R appendice on Rpubs <a href="https://rpubs.com/Al_Haque/1048991">Click here</a></p>
 
 <img src="![image](https://github.com/AldataSci/AlHaque.github.io/assets/98715645/4d36c985-55ba-4b81-a6a5-d90208b9623c)">
 
