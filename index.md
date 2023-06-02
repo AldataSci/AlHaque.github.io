@@ -8,6 +8,10 @@
 <img src="https://calltothepen.com/wp-content/uploads/getty-images/2018/08/1223475597.jpeg" 
      width="250" 
      height="250" />
+     
+<img src="https://www.justbaseball.com/wp-content/uploads/sites/2/2021/06/Mets-Peter-Alonso.jpg?fit=4808%2C3184" 
+     width="250" 
+     height="250" />
 
 <p style="font-size:15px">Click here for the full write-up and R appendice on Rpubs <a href="https://rpubs.com/Al_Haque/1048991">Click here</a></p>
 
