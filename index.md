@@ -3,7 +3,7 @@
 ---
  
 [Regression Analysis of Baseball](/sample_page)
-<img src="C:\Users\alhaq\Downloads\nathaniel-yeo-ZpQqbXGZD5o-unsplash (1).jpg/">
+<img src="![image](https://github.com/AldataSci/AlHaque.github.io/assets/98715645/4d36c985-55ba-4b81-a6a5-d90208b9623c)">
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
