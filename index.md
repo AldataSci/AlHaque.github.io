@@ -3,6 +3,7 @@
 ---
  
 [Regression Analysis of Baseball](/sample_page)
+<p style="font-size:11px">A dataset containing information about baseball teams and the amount of games each team has won </p>
 <img src="![image](https://github.com/AldataSci/AlHaque.github.io/assets/98715645/4d36c985-55ba-4b81-a6a5-d90208b9623c)">
 
 ---
