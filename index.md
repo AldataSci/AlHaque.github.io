@@ -5,9 +5,9 @@
 ### Regression Analysis of Baseball Wins
 <p style="font-size:15px">A dataset containing information about baseball teams and the amount of games each team has won. Cleaned the data by removing irrelevant columns and imputed missing values with pmm,cart and lasso. Utilized linear regression to predict wins </p>
 
-<img src="https://ik.imagekit.io/ikmedia/women-dress-2.jpg" 
-     width="400" 
-     height="500" />
+<img src="https://calltothepen.com/wp-content/uploads/getty-images/2018/08/1223475597.jpeg" 
+     width="250" 
+     height="250" />
 
 <p style="font-size:15px">Click here for the full write-up and R appendice on Rpubs <a href="https://rpubs.com/Al_Haque/1048991">Click here</a></p>
 
