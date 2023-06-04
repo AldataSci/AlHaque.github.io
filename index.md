@@ -29,19 +29,23 @@
 
 
 <p style="font-size:15px"> <a href="https://rpubs.com/Al_Haque/1048991">View Work on Rpubs </a></p>
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 
-### Category Name 2
+## Data Analysis of Causes of Death in New York City
+<p style="font-size:15px"> Used the pandas library to analyze and wrangle the data from the dataframe, Used the seaborn library to visualize the insights I collected  </p>
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+<img src="https://lh3.googleusercontent.com/pO4wOS08JHcepF4HjJJVAmtNPcy6W42eL77QafXEnHWU6v-YYEADnTcV9cnMl_gWW6mx_WrLpXTk4HJtd7WSnkG3MLjWxam0SN_eDREE4g"
+     width = "500"
+     height = "250" />
+
+<p style="font-size:15px"> <a href="https://colab.research.google.com/drive/1ieRm8xKHRpg-OzkFxea7P9yfA71oLaNQ?usp=sharing">View Code on Colab </a></p>
+---
+
+
+
+
 
 ---
 
