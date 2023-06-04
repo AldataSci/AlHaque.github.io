@@ -22,7 +22,7 @@
 ---
 ## Predicting House Prices in Washington
 <p style="font-size:15px">Utilized decision tree algorithm to predict house prices in Washington State. Peformed exploratory data analysis to observe the dataset and then utilized tidymodels package in R to run decision tree </p>
-<img src="images/1_D6s2K1y7kjE14swcglTB1w.png?raw=true"
+<img src="images/house.png?raw=true"
      width = "300"
      height = "250" />
 
