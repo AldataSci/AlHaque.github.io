@@ -2,7 +2,7 @@
 
 ---
  
-### Regression Analysis of Baseball Wins
+## Regression Analysis of Baseball Wins
 <p style="font-size:15px">A dataset containing information about baseball teams and the amount of games each team has won. Cleaned the data by removing irrelevant columns and imputed missing values with pmm,cart and lasso. Utilized linear regression to predict wins </p>
 
 <body>
@@ -20,9 +20,15 @@
 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+## Predicting House Prices in Washington
+<p style="font-size:15px">Utilized random forest ensemble method to predict house prices in Washington State. Peformed exploratory data analysis to observe the dataset and then utilized tidymodels package in R to run random forest </p>
+<img src="https://i.ytimg.com/vi/LvfbopVq-WE/maxresdefault.jpg"
+     width = "300"
+     height = "250" />
 
+
+
+<p style="font-size:15px"> <a href="https://rpubs.com/Al_Haque/1048991">View Work on Rpubs </a></p>
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
