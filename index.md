@@ -34,7 +34,7 @@
 ---
 
 ## Data Analysis of Causes of Death in New York City
-<p style="font-size:15px"> Used the pandas library to analyze and wrangle the data from the dataframe, Used the seaborn library to visualize the insights I collected  </p>
+<p style="font-size:15px"> Used the pandas library to analyze and wrangle the data from the dataset, Used the seaborn library to visualize the insights I collected  </p>
 
 <img src="https://lh3.googleusercontent.com/pO4wOS08JHcepF4HjJJVAmtNPcy6W42eL77QafXEnHWU6v-YYEADnTcV9cnMl_gWW6mx_WrLpXTk4HJtd7WSnkG3MLjWxam0SN_eDREE4g"
      width = "500"
@@ -43,8 +43,12 @@
 <p style="font-size:15px"> <a href="https://colab.research.google.com/drive/1ieRm8xKHRpg-OzkFxea7P9yfA71oLaNQ?usp=sharing">View Code on Colab </a></p>
 ---
 
+## Data Analysis of Popular Anime
+<p style="font-size:15px"> Analyzed a dataset about popular anime from recent year, used pandas library to analyze and wrangle the data for key finding. Used the matplotlib library to visualize the data. </p>
 
-
+<img src = ""
+     width = "300"
+     height = "250" />
 
 
 ---
