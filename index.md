@@ -47,8 +47,10 @@
 <p style="font-size:15px"> Analyzed a dataset about popular anime from recent year, used pandas library to analyze and wrangle the data for key finding. Used the matplotlib library to visualize the data. </p>
 
 <img src = "images/download.png?raw=true"
-     width = "300"
+     width = "500"
      height = "250" />
+
+<p style="font-size:15px"> <a href="https://colab.research.google.com/drive/1Mmd_z6wcJSGN_tXtZbokLq432ioMMHq6#scrollTo=SqQQFjGdrvU5">View Code on Colab </a></p>
 
 
 ---
