@@ -46,7 +46,7 @@
 ## Data Analysis of Popular Anime
 <p style="font-size:15px"> Analyzed a dataset about popular anime from recent year, used pandas library to analyze and wrangle the data for key finding. Used the matplotlib library to visualize the data. </p>
 
-<img src = ""
+<img src = "images/download.png?raw=true"
      width = "300"
      height = "250" />
 
