@@ -4,7 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br> Aspiring Data Scientist here to showcase the various work I have done working on my Masters Degree
   at The CUNY School of Professional Studies <br>
   
-  <a href="https://www.linkedin.com/in/al-haque-a97592233/">View My LinkedIn Profile</a> 
+  <br><a href="https://www.linkedin.com/in/al-haque-a97592233/">View My LinkedIn Profile</a> </br>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
