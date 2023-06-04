@@ -21,8 +21,8 @@
 
 ---
 ## Predicting House Prices in Washington
-<p style="font-size:15px">Utilized random forest ensemble method to predict house prices in Washington State. Peformed exploratory data analysis to observe the dataset and then utilized tidymodels package in R to run random forest </p>
-<img src="https://i.ytimg.com/vi/LvfbopVq-WE/maxresdefault.jpg"
+<p style="font-size:15px">Utilized decision tree algorithm to predict house prices in Washington State. Peformed exploratory data analysis to observe the dataset and then utilized tidymodels package in R to run decision tree </p>
+<img src="https://rpubs.com/Al_Haque/1034846"
      width = "300"
      height = "250" />
 
