@@ -36,7 +36,7 @@
 ## Data Analysis of Causes of Death in New York City
 <p style="font-size:15px"> Used the pandas library to analyze and wrangle the data from the dataset, Used the seaborn library to visualize the insights I collected  </p>
 
-<img src="https://lh3.googleusercontent.com/pO4wOS08JHcepF4HjJJVAmtNPcy6W42eL77QafXEnHWU6v-YYEADnTcV9cnMl_gWW6mx_WrLpXTk4HJtd7WSnkG3MLjWxam0SN_eDREE4g"
+<img src="images/Heart_Disease.png?raw=true"
      width = "500"
      height = "250" />
 
